@@ -17,20 +17,20 @@ getting the APP ID from my.telegram.org
 /start at any stage to re-enter your details</b>
 """
     BEFORE_SUCC_LOGIN = "<code>recieved code. Scarpping web page ...</code>"
-    ERRED_PAGE = """Hadeh Error. Coba dengan Cara Manual
+    ERRED_PAGE = """Here is the translation:
 
-Cara Ambil APP ID dan API HASH Secara Manual:
-1. Buka my.telegram.org/auth
-2. Loginkan akun telegram kalian
-3. klik menu API Development
-4. isi data seperti dibawah ini :
-• App Title : tgbot
-• Short Name : tgbot
-• URL : (kosongin)
-• Platform : desktop
-5. Selesai
+"Manual Method to Obtain APP ID and API HASH:
+1. Open my.telegram.org/auth
+2. Log in to your Telegram account
+3. Click on API Development in the menu
+4. Fill in the data as follows:
+   - App Title: tgbot
+   - Short Name: tgbot
+   - URL: (leave it blank)
+   - Platform: desktop
+5. Done
 
-Bila Berhasil Ambil Manual Silahkan Coba Lagi di Bot ini"""
+If you have successfully obtained the information manually, please try again on this bot.""""
     CANCELLED_MESG = "<b>Bye! Silahkan /start kembali untuk mengulang</b>"
     IN_VALID_CODE_PVDED = "<b>Invalid confirmation code!</b>"
     IN_VALID_PHNO_PVDED = """<b>sorry, 
