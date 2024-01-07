@@ -33,7 +33,7 @@ Cara Ambil APP ID dan API HASH Secara Manual:
 Bila Berhasil Ambil Manual Silahkan Coba Lagi di Bot ini"""
     CANCELLED_MESG = "<b>Bye! Silahkan /start kembali untuk mengulang</b>"
     IN_VALID_CODE_PVDED = "<b>Invalid confirmation code!</b>"
-    IN_VALID_PHNO_PVDED = "<b>sorry, 
+    IN_VALID_PHNO_PVDED = """<b>sorry, 
 but the input does not seem to be 
-a valid phone number</b>"
+a valid phone number</b>"""
     
