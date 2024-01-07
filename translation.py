@@ -30,10 +30,12 @@ getting the APP ID from my.telegram.org
    - Platform: desktop
 5. Done
 
-If you have successfully obtained the information manually, please try again on this bot.""""
+If you have successfully obtained the information manually, please try again on this bot."
+"""
+    
     CANCELLED_MESG = "<b>Bye! Silahkan /start kembali untuk mengulang</b>"
     IN_VALID_CODE_PVDED = "<b>Invalid confirmation code!</b>"
     IN_VALID_PHNO_PVDED = """<b>sorry, 
 but the input does not seem to be 
 a valid phone number</b>"""
-    
+
